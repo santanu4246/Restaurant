@@ -35,3 +35,12 @@ ScrollReveal().reveal(".header_content h1",{
 });
 
 
+ScrollReveal().reveal(".order_card",{
+    ...scrollRevealOption,
+    interval:500
+})
+
+ScrollReveal().reveal(".event_content",{
+    duration:2000,
+
+})
